@@ -72,12 +72,12 @@
         <h2>Our Categories</h2>
         <div class="category">
             <div class="card">
-                <img src="https://via.placeholder.com/400x200" alt="SSN Engineers">
+                <img src="{{ asset('uploads/SSN Groups-04.png') }}" alt="SSN Engineers">
                 <h2>SSN Engineers</h2>
                 <p>Our engineering team is dedicated to delivering innovative and sustainable solutions. From infrastructure to industrial projects, we bring expertise and quality to every venture.</p>
             </div>
             <div class="card">
-                <img src="https://via.placeholder.com/400x200" alt="SSN Constructions">
+                <img src="{{ asset('uploads/SSN Groups-03.png') }}" alt="SSN Constructions">
                 <h2>SSN Constructions</h2>
                 <p>Specializing in large-scale construction projects, we ensure quality, safety, and efficiency in every build. Let us turn your vision into reality.</p>
             </div>
